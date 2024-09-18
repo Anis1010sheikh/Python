@@ -22,7 +22,7 @@ d = Dog()
 c = Cat()
 
 print('a is Animal?', isinstance(a, Animal))
-print('a is Dog?', isinstance(a, Dog))
+print('a is Test Dog?', isinstance(a, Dog))
 print('a is Cat?', isinstance(a, Cat))
 
 print('d is Animal?', isinstance(d, Animal))
